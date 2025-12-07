@@ -2,7 +2,7 @@
 
 Vous y trouverez notamment mon histoire et mes compétences en tant que **Développeuse Web Full Stack** !
 
-[![Portfolio](https://img.shields.io/badge/Statut-En%20ligne-success)](https://lauragautier.github.io/portfolio-2025/)
+[![Portfolio](https://img.shields.io/badge/Statut-En%20ligne-success)](https://lauragautier.me/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
